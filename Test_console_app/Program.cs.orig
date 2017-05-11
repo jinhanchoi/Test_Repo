@@ -1,0 +1,16 @@
+﻿using System;
+
+namespace Test_console_app
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+<<<<<<< HEAD
+            Console.WriteLine("Hello World!!");
+=======
+            Console.WriteLine("Hello World!");
+>>>>>>> Pjt start2e3333
+        }
+    }
+}
